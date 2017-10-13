@@ -1,0 +1,17 @@
+﻿Katherine Van Dyk:
+        I developed the front-end design (including the UI images included in the report) as well  problem approach section of the report. Also helped develop framework/system architecture. 
+
+
+Alex Boss:
+        I wrote the outline & initial draft of many of the bullets and edited later versions. I also did research on the tools and technologies needed for the project. 
+
+
+Bilva Sanaba: 
+        Brainstormed and developed ER design and then implemented it into PostgreSQL along with additional triggers and sample queries. Conducted a previous system survey and wrote my findings into the Milestone. Contacted various Duke groups to look into methods for creating out data. 
+
+
+Teddy Ruby:
+        I met with Seon to discuss the project and wrote the summary of the conversation. I also worked on the ER design, PostgreSQL implementation and sample queries.
+ 
+Ryan Pond:
+        Researched previous systems that utilized our basic application model and made sure our idea was unique in both design and implementation.
