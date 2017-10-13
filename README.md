@@ -1,2 +1,2 @@
 # compsci316.foodpal
-An Duke-Specific Food Health iOS App
+A Duke University-specific food tracking iOS app
